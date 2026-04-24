@@ -1,6 +1,6 @@
 # Lagos-Real-Estate-Market-Analysis
 📌 Overview
-This project scrapes and analyzes Lagos real estate data from various property websites. It digs into property prices, location trends, and market patterns to make sense of Nigeria’s favorite chaos generator: the housing market. By converting raw web data into structured insights, this analysis serves as a data-driven snapshot for investors, homebuyers, and urban planners navigating the Lagos property landscape.
+This project utilizes open-source Lagos real estate data (Dataset provided by @adamlaw669 on GitHub) to conduct a deep-dive analysis into property prices, location trends, and market patterns to make sense of Nigeria’s favorite chaos generator: the housing market. By converting raw web data into structured insights, this analysis serves as a data-driven snapshot for investors, homebuyers, and urban planners navigating the Lagos property landscape.
 
 📊 Key Findings
 * Market Baseline: The median price for a Lagos property is *₦125.0 million*, with the majority of listings falling into the *Mid-price segment*.
@@ -10,7 +10,7 @@ This project scrapes and analyzes Lagos real estate data from various property w
 
 🛠️ The Toolkit
 * Language: Python
-* Scraping: BeautifulSoup
+* Data Validation and Cleaning: Pandas
 * Analysis: Pandas, NumPy
 * Visualization: Matplotlib, Seaborn
 
