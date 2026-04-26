@@ -1,5 +1,5 @@
 # Lagos-Real-Estate-Market-Analysis
-📌 Overview
+📌 Overview\
 This project utilizes open-source Lagos real estate data (Dataset provided by @adamlaw669 on GitHub) to conduct a deep-dive analysis into property prices, location trends, and market patterns to make sense of Nigeria’s favorite chaos generator: the housing market. By converting raw web data into structured insights, this analysis serves as a data-driven snapshot for investors, homebuyers, and urban planners navigating the Lagos property landscape.
 
 📊 Key Findings
