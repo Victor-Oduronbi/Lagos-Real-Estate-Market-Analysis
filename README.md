@@ -19,7 +19,7 @@ This project utilizes open-source Lagos real estate data (Dataset provided by @a
 * Data: lagos_housing_data (Raw Data) and lagos_real_estate_cleaned (Cleaned Data)
 * Visuals:
 
-  <img width="900" height="413" alt="image" src="https://github.com/user-attachments/assets/3d304565-36cf-4b12-8e15-7a71865cd5de" />\
+  <img width="986" height="590" alt="image" src="https://github.com/user-attachments/assets/24f7d4fd-8d34-409b-b87f-6af8deb3b4b5" />\
   <img width="986" height="590" alt="image" src="https://github.com/user-attachments/assets/b031af0d-7c8d-43d2-ac39-127a75202f32" />\
   <img width="1189" height="690" alt="image" src="https://github.com/user-attachments/assets/be882891-a6bc-430c-9c0f-46f20aa77c98" />\
   <img width="1389" height="590" alt="image" src="https://github.com/user-attachments/assets/832a981c-6862-4135-842c-4c0e75770327" />
