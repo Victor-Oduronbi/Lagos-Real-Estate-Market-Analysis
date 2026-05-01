@@ -42,5 +42,5 @@ How to Run:
 * Open Notebooks in Jupyter.
 
 📬 Contact\
-Oduronbi Victor – www.linkedin.com/in/victor-oduronbi-62b22132b – victoroduronbi@gmail.com
-  
+*Oduronbi Victor* – (LinkedIn) www.linkedin.com/in/victor-oduronbi-62b22132b – (Email) victoroduronbi@gmail.com
+
