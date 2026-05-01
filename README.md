@@ -36,7 +36,7 @@ This project utilizes open-source Lagos real estate data (Dataset provided by @a
 * Value Drivers (Pools): Developers can significantly increase a property's market value by prioritizing "lifestyle amenities" over just square footage.
 * Hidden Gems (Lekki): Middle-income buyers should prioritize Lekki for the best "feature-per-Naira" ratio compared to other high-demand zones.
 
-How to Run:
+📌 **How to Run**:
 * Clone this repo.
 * Install requirements: pip install pandas seaborn beautifulsoup4
 * Open Notebooks in Jupyter.
